@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Said Djafar Said</h1>
 <h3 align="center">A passionate Computer Science student at KU from Denmark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djafar1&label=Profile%20views&color=0e75b6&style=flat" alt="djafar1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djafar1" alt="djafar1" /></a> </p>
-
 - 🔭 I’m currently working on [FNN VS CNN](https://github.com/djafar1/FFNN-vs-CNN-project/)
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning, which includes Neural Networks**
