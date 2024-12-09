@@ -1,6 +1,3 @@
-<!--
-**djafar1/djafar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Said Djafar Said</h1>
 <h3 align="center">A passionate Computer Science student at KU from Denmark</h3>
 
