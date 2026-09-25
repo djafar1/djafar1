@@ -39,7 +39,7 @@ role="img" aria-label="Aggregate GitHub activity">
 <text x="55" y="47" class="title">GitHub Activity</text>
 
 <text x="55" y="72" class="subtitle">
-Public + private development, last 365 days · 2025-09-24 to 2026-09-24
+Public + private development, last 365 days · 2025-09-25 to 2026-09-25
 </text>
 
 <line x1="55" y1="91" x2="845" y2="91" stroke="#30363d" stroke-width="1"/>
