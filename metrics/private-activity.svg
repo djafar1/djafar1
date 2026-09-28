@@ -39,12 +39,12 @@ role="img" aria-label="Aggregate GitHub activity">
 <text x="55" y="47" class="title">GitHub Activity</text>
 
 <text x="55" y="72" class="subtitle">
-Public + private development, last 365 days · 2025-09-27 to 2026-09-27
+Public + private development, last 365 days · 2025-09-28 to 2026-09-28
 </text>
 
 <line x1="55" y1="91" x2="845" y2="91" stroke="#30363d" stroke-width="1"/>
 
-<text x="65" y="137" class="value">135</text><text x="65" y="163" class="label">Commits</text><text x="285" y="137" class="value">11</text><text x="285" y="163" class="label">Active repos</text><text x="505" y="137" class="value">19</text><text x="505" y="163" class="label">Owned repos</text><text x="725" y="137" class="value">9</text><text x="725" y="163" class="label">Private repos</text>
+<text x="65" y="137" class="value">138</text><text x="65" y="163" class="label">Commits</text><text x="285" y="137" class="value">11</text><text x="285" y="163" class="label">Active repos</text><text x="505" y="137" class="value">19</text><text x="505" y="163" class="label">Owned repos</text><text x="725" y="137" class="value">9</text><text x="725" y="163" class="label">Private repos</text>
 
 <text x="55" y="205" class="note">
 19 owned repositories analyzed, 9 private
